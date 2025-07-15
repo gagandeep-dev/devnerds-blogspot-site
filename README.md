@@ -34,7 +34,7 @@
 
 ## 🌐 Live Demo
 
-[🔗 View Site](https://your-site-link.netlify.app)  
+[🔗 View Site]([https://your-site-link.netlify.app](https://gagandeep-dev.github.io/devnerds-blogspot-site/))  
 _Replace with your actual Netlify or GitHub Pages URL_
 
 ---
